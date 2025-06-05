@@ -55,3 +55,8 @@ With a single command (`interface.launch()`), the application was hosted in a lo
 This internship project was a highly enriching experience. It strengthened my practical knowledge of machine learning workflows and real-time model deployment. I gained hands-on expertise in data preprocessing, model evaluation, and user interface development—all of which are critical components in building production-ready AI solutions.
 
 ##
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b8a8e535-fa98-49cd-8825-43ba9549ed21)
+![Image](https://github.com/user-attachments/assets/cd94308b-fee7-45df-a7cd-4f4cc59b1329)
